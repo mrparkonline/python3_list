@@ -11,3 +11,6 @@ By: J Park
 - List of primes under N (s5_primes.py)
 - Duplicate removal within a list (s6_dup.py)
 - Searching for a target value within in a list (s7_index.py)
+- Basic Mean, Median and Mode with numeric lists (s8_stats.py)
+- Converting a comma-separated value (s9_csv.py)
+- Project Euler Problem 4: Largest Palindrome Product (s10_palindromic.py)
