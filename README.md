@@ -4,6 +4,7 @@ ICS2O & ICS3U Solutions
 By: J Park
 
 ### Problems Solved:
+Found in ```./solutions```
 - List of even numbers (s1_even.py)
 - The number with most factors from 1 to N (s2_factors.py)
 - List of random integers (s3_randomNums.py)
